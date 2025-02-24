@@ -1,0 +1,12 @@
+{
+    "User": {
+      "userName": "standard_user",
+      "password": "secret_sauce"
+    },
+    "checkoutInfo": {
+        "firstName": "David",
+        "lastName": "Mckinsey",
+        "zipCode": "54000",
+        "completionMessage": "Thank you for your order!"
+    }
+}
