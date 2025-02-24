@@ -14,7 +14,7 @@ npm: Comes bundled with Node.js.
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/ahmedsheikh2/BusPlannerAssignment.git
 ```
 cd your-repo
 
